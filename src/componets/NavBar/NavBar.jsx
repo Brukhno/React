@@ -4,19 +4,19 @@ import s from "./NavBar.module.css"
 const NavBar =()=>{
     return<nav className={s.nav}>
 		<div className={s.item}>
-		<a>Profile</a>
+		<a href="/#">Profile</a>
 		</div>
 		<div className={s.item}>
-		<a>Massges</a>
+		<a href="/#">Massges</a>
 		</div>
 		<div className={s.item}>
-		<a>News</a>
+		<a href="/#">News</a>
 		</div>
 		<div className={s.item}>
-		<a>Music</a>
+		<a href="/#">Music</a>
 		</div>
 		<div className={s.item}>
-		<a >Settings</a>
+		<a href="/#" >Settings</a>
 		</div>
 	</nav>
 }
