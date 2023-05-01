@@ -12,5 +12,6 @@
 .app-wrapper-content{
   
     grid-area: c ;
-    background-color:chartreuse;
+    background-color:rgb(194, 186, 240);
+    border-radius: 10px;
   }
