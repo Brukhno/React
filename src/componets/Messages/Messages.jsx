@@ -1,10 +1,10 @@
 import React from "react"
 
-const Music = (props)=>{
+const Messages = (props)=>{
     return(
         <div>
-            Music
+            Messages
         </div>
     )
 }
-export default Music
+export default Messages
