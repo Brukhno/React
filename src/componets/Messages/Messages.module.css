@@ -4,11 +4,16 @@ grid-template-columns: 2fr 10fr;
 }
 .dialogsItem{
 padding: 10px;
+display: flex;
+flex-direction: column;
 }
 .dialogsItem .active{
 color: gold;
 }
 .dialog{
+    padding: 5px;
+    color :rgb(219, 31, 25); 
+    text-decoration: none;   
 
 }
 .messages{
