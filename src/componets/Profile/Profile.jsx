@@ -3,7 +3,7 @@ import s from './Profile.module.css'
 import MyPosts from "./MyPosts/MyPosts";
 
 const Profile =()=>{
-    return<div className={s.content}>
+    return<div>
 	<div>
 		<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwYzBYD8kdjHe9VnspYlCQ9jfwz4KbBZkBNA&usqp=CAU' alt='no img'/>
 		</div>

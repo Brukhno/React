@@ -10,8 +10,8 @@ const MyPosts =()=>{
 		<button>Add post</button>
 		</div>
 		<div className={s.posts}>
-		<Post massage='Hi , how are yuo?'/>
-		<Post massage='Its my first post'/>
+		<Post massage='Hi , how are yuo?' like='15'/>
+		<Post massage='Its my first post' like='20'/>
 		</div>
 		</div>
 }
